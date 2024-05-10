@@ -25,6 +25,11 @@ Animated "working on it" screen.
 
 ![image](https://github.com/zus119/AzureOnboard/assets/51805317/65a3fac6-9640-4e97-bb21-3d9c60ecba87)
 
+YouTube Video of App:
+https://youtu.be/uBfOQeOfG8Q
+
+
+
 Once the new item is created in the sharepoint list, the azure logic app triggers and starts creating the new user. Logic App sits in its own resource group (OnboardAutomator-RG) to track spending.
 
 ![image](https://github.com/zus119/AzureOnboard/assets/51805317/438d9048-ded2-4961-800c-da1a6b082fa2)
